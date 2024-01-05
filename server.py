@@ -41,3 +41,4 @@ def quadrado(numero: int):
 @app.post('/produtos')
 def produtos():
     return {'mensaem':'Produto (Espetinho) cadastrado com sucesso'}
+
